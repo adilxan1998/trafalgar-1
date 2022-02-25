@@ -1,0 +1,110 @@
+
+.outer{
+  text-align: center;
+}
+
+.inner {
+  width: 1170px;
+  display: inline-block;
+}
+
+.space {
+  width: 100px;
+  display: inline-block;
+}
+
+.div{
+  height: 90px;
+}
+
+.div2{
+  display: inline-block;
+  width: 500px;
+}
+
+.menu{
+  width: 100px;
+  list-style: none;
+  display: inline-block;
+  ;
+  
+}
+
+.list{
+  text-decoration: none;
+}
+
+.img1{
+  width: 200px;
+  display: inline-block;
+}
+
+.img{
+  width: 90px;
+}
+
+.div3{
+  width: 300px;
+  height: 400px;
+  display: inline-block;
+}
+
+
+.hr{
+  width: 30px;
+  display: inline-block;
+}
+
+.h2{
+  display: inline-block;
+}
+
+.p{
+  width: 300px;  
+}
+
+.katalog{
+  text-decoration: none;
+  color: aliceblue;
+
+}
+
+.katolog{
+  width: 150px;
+  height: 40px;
+  background-color: #444240;
+}
+
+.img2{
+ width: 400px;
+ height: 650px;
+ display: inline-block;  
+}
+
+.divv{
+  width: 1100px;
+  height: 450px;
+  display: inline-block;
+  background-color: blanchedalmond;
+}
+
+.img3{
+  width: 500px;
+  height: 400px;
+  display: inline-block;
+}
+
+.watch{
+  width: 500px;
+  height: 400px;
+  display: inline-block;
+  text-align: start;
+ 
+  
+}
+
+.a{
+  width: 100px;
+  height: 60px;
+  background-color: #D4B098;;
+}
